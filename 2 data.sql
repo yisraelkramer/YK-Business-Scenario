@@ -2,7 +2,7 @@ use StrikeZoneDB
 go 
 delete LaneReservation
 go 
-
+ 
 insert LaneReservation (LastName, FirstName, Age, LaneNumber, ReservationStart, ReservationEnd)
     values
         ('Cohen', 'Miriam', 16, 3, '2024-08-04 15:00', '2024-08-04 22:30'),

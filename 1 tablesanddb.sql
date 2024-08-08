@@ -7,6 +7,7 @@ go
 use StrikeZoneDB
 go
 
+
 drop table if exists LaneReservation
 go
 CREATE TABLE LaneReservation
